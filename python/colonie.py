@@ -42,13 +42,20 @@ Y_CONTENUTO = 60
 
 i = 1
 
+nome_documento = ["LETTURA", "APPUNTI"]
+
+def scelta_documento(valore, altra_variabile):
+   altra_variabile.set(not valore)
+
 def carica_documento_remaining():
-   carica_documento("DOCUMENTO", documento)
+   global appunti_si
+   carica_documento(nome_documento[appunti_si.get()], documento )
    carica_documento("INGLESE", paroleE)
    carica_documento("TEDESCO", paroleT)
 
 def salva_documento_remaining():
-   salva_documento("DOCUMENTO", documento)
+   global appunti_si
+   salva_documento(nome_documento[appunti_si.get()], documento)
    salva_documento("INGLESE", paroleE)
    salva_documento("TEDESCO", paroleT)
 
@@ -108,7 +115,7 @@ def filo_controllo():
 
 ##interfaccia per principale
 def inizializza_finestra(colore_finestra):
-    global root, documento, lista, paroleE, paroleT
+    global root, documento, lista, paroleE, paroleT, appunti_si
 
     root = tk.Tk()
     root.title('This is my day')
@@ -138,6 +145,12 @@ def inizializza_finestra(colore_finestra):
     tk.Button(root, text='CP', command=combina_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 200)
     tk.Button(root, text='D', command=dividi_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 200)
 #    paroleE['font'] = ('consolas', '12')
+
+    lettura_si = tk.IntVar()
+    tk.Checkbutton(root, bg = colore_finestra, command = lambda: scelta_documento(lettura_si.get(), appunti_si), fg = 'orange', text = "LETTURA", variable=lettura_si).place(x=X_BOTTONI - 450, y=Y_ETICHETTE)
+    appunti_si = tk.IntVar()
+    tk.Checkbutton(root, bg = colore_finestra, command = lambda: scelta_documento(appunti_si.get(), lettura_si), fg = 'orange', text = "APPUNTI", variable=appunti_si).place(x=X_BOTTONI - 350, y=Y_ETICHETTE)
+    appunti_si.set(1)
 
 def corri_finestra():
     tk.mainloop()
