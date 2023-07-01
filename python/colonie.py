@@ -1,3 +1,4 @@
+# -*- coding: iso-8859-15 -*-
 import tkinter as tk
 from tkinter import WORD
 import pyperclip
@@ -75,7 +76,7 @@ def parola_in_lista():
    corri_controllo()
 
 def carica_documento(nome, campo):
-    campo.delete(1.0, tk.END)   
+    campo.delete(1.0, tk.END)
     lettore = open("./" + nome)
     linee = lettore.readlines()
     for linea in linee:
@@ -94,12 +95,12 @@ def dividi_parole():
     linee = documento.get('1.0', 'end').split()
     documento.delete(1.0, tk.END)
     for linea in linee:
-        documento.insert(tk.END, linea.replace('.','').replace(',','').replace('"','').replace("'",'').replace("“","").replace("”","") + '\n')
+        documento.insert(tk.END,linea.replace('.','').replace(',','').replace('"','').replace("'",'').replace("“","").replace("”","") + '\n')
 
 def combina_parole():
     lineeI = paroleE.get('1.0', 'end').split('\n')
     lineeT = paroleT.get('1.0', 'end').split('\n')
-    documento.delete(1.0, tk.END)   
+    documento.delete(1.0, tk.END)
     i=0
     for linea in lineeT:
         if (len(linea)> 0):
@@ -142,8 +143,8 @@ def inizializza_finestra(colore_finestra):
     tk.Button(root, text='A', command=carica_documento_remaining).place(x=X_BOTTONI, y=Y_CONTENUTO + 50)
     tk.Button(root, text='S', command=salva_documento_remaining).place(x=X_BOTTONI, y=Y_CONTENUTO + 100)
     tk.Button(root, text='PT', command=parola_tedes_in_lista).place(x=X_BOTTONI, y=Y_CONTENUTO + 150)
-    tk.Button(root, text='CP', command=combina_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 200)
-    tk.Button(root, text='D', command=dividi_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 200)
+    tk.Button(root, text='CP', command=combina_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 250)
+    tk.Button(root, text='D', command=dividi_parole).place(x=X_BOTTONI, y=Y_CONTENUTO + 300)
 #    paroleE['font'] = ('consolas', '12')
 
     lettura_si = tk.IntVar()
@@ -168,4 +169,5 @@ inizializza_finestra(COLORE_FINESTRA)
 corri_finestra()
 
  
+
 
