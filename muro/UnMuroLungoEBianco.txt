@@ -1,7 +1,7 @@
 PERSONAGGI
 DOMENICA, padrona della sartoria
 DUNETTA, giovane sarta
-MARIA, sua sorella maggiore
+MARTA, sua sorella maggiore
 SABATINO, muratore e figlio del lattoniere
 MARTINA, sarta diligente
 BELLA, sartina analfabeta
@@ -12,8 +12,10 @@ Contadini del paese
 
 Campagna abruzzese, un'estate alla fine degli anni '60
 
+ATTO I
+17-144-
 GIORNO PRIMO
-Si apre ll sipario e rivela l'interno di una grande stanza, lunga cinque metri, con un soffitto basso.
+(Si apre ll sipario e rivela l'interno di una grande stanza, lunga cinque metri, con un soffitto basso.
 Sul muro di fronte a noi c’e’ una scritta: “Potete tagliare tutti i fiori, ma non fermerete mai la primavera”. 
 Attorno a questa scritta vediamo altre frasi, ma non riusciamo a leggerle.
 A sinistra delle frasi c'e' una porta d’ingresso chiusa e sulla destra un’ampia finestra.
@@ -21,6 +23,7 @@ Attraverso i vetri della finestra al chiarore dell’alba vediamo una strada ste
 Sulla parete a sinistra vediamo piu' vicina a noi una macchina da cucire e piu' in la' una porta interna. 
 Addossati sulla parete a destra ci sono tre tavolini e tre sedie sistemate sotto i tavolini. 
 Sotto la finestra vediamo una cassapanca con una radio.
+Sulla cassapanca ci sono delle penne di vari colori.
 L’ombra di un contadino con una zappa passa fuori dietro la finestra e si allontana silenziosa verso i campi, seguita dall’ombra di un altro contadino con la falce, e, mentre passano. si sentono i versi degli animali e i loro campanacci che accompagnano i contadini.
 La luce fuori gradualmente aumenta a significare il farsi del giorno.
 La luce nella stanza si accende ed dalla porta interna entra una donna di mezz'età.
@@ -29,7 +32,7 @@ La signora richiude la porta interna, apre la porta d’ingresso, e si siede die
 Dietro la porta d'ingresso aperta appare l’altra metà della stessa strada che nella direzione opposta porta al paese. 
 La sartoria si trova ai margini del paese e si discosta dalle poche case e negozi che si vedono sullo sfondo.
 Altri contadini passano sulla strada dirigendosi ai campi.
-(Un contadino si ferma davanti alla porta aperta)
+Un contadino si ferma davanti alla porta aperta)
 CONTADINO PRIMO: Buongiorno comare Minuccia
 DOMENICA: Buongiorno compare, come sono le olive quest’anno?
 CONTADINO PRIMO: Abbondanti comare! Speriamo che la mosca non le punga …
@@ -84,17 +87,17 @@ DUNETTA: Macchè! Quella c’ha ben altro per la testa ...
 BELLA: Tua sorellla e’ proprio bella. Li vorrei aveUn contadino si ferma davanti alla porta aperta)re io tutti quei ganzi che le girano attorno
 DUNETTA: Ma intanto lei non si vuole sposare, mia madre si sta esaurendo, ed io ne faccio le spese
 (Si sente la radio suonare un’altra canzone. 
-Martina si alza, e scrive sul muro una delle frasi della canzone. 
+Martina si alza, prende una penna dalla cassapanca, e scrive sul muro una delle frasi della canzone. 
 Il volume della radio piano piano si abbassa. 
-Martina si rimette a sedere)
+Martina rimette la penna da dove l'ha presa e si rimette a sedere)
 BELLA: Ma cosa hai scritto?
-MARTINA: E che! Non sai leggere? E’ quello che ha appena detto Gianni Morandi
+MARTINA: E che! Non sai leggere? Sono le parole della canzone che abbiamo sentito alla radio!
 BELLA: Non so leggere no: non lo sai? Non mi hanno mai fatto finire le scuole. A sudare e sfacchinare da quando ero piccina piccina. Per fortuna a mia madre serve qualche soldo per riparare la casa che sta cadendo e il mese scorso mi ha portato qui.
 MARTINA: E per fortuna la signora Angela ti ha presa: sai quante vengono accompagnate dalle madri e si sentono dire che non vanno bene?
 DUNETTA: Io sono venuta da sola; col cavolo che mia madre mi ci avrebbe portato; a sgobbare da mattina e sera per lei ed il suo compare mi avrebbe tenuto
 (Le sarte ricamano in silenzio.
 Si sente la radio suonare un’altra canzone. 
-Dalla strada arrova una donna anziana e corpulenta, vestita con un tailleur fuori moda e una giacca con uno strappo nel gomito.  
+Dalla strada arriva una donna anziana e corpulenta, vestita con un tailleur fuori moda e una giacca con uno strappo nel gomito.  
 In testa ha un cappellino, anch'essp fuori moda) 
 MAESTRA TORA: Ma che cos'e' questo baccano! Spegnete quella radio, che gia' mi ha fatto venire il mal di testa ...
 (Bella si alza, abbassa il volume della radio, e si rimette a sedere)
@@ -139,3 +142,146 @@ Angela spegne la radio, chiude la porta d'ingresso, ed esce dalla porta interna.
 La luce nella stanza si spegne.
 La luce si spegne anche fuori.
 Arriva la notte)
+GIORNO SECONDO 
+(La luce fuori gradualmente aumenta a significare il farsi del giorno.
+Inizia tutto come giorno prima, ma piú rapido e senza parole.
+L'ombra di un contadino con la falce passa davanti alla finestra.
+Si sentono i rumori di animali fuori scena.
+La luce nella stanza si accende.
+Entra Domenica, apre la porta d’ingresso, e si siede dietro la macchina da cucire.
+Altri contadini passano sulla strada dirigendosi ai campi.
+Arriva Martina, accende la radio, si siede al suo tavolo, e si mette al lavoro.
+La radio si sente in sottofondo.
+Arrivano Bella e Dunetta, che si siedono ai tavoli e si mettono al lavoro.
+Il volume della radio piano piano si abbassa. 
+Le luci si concentrano su Domenica.
+Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare)
+DOMENICA: La ragazza dai mille vestiti si chiamava maestra Flavia, e la madre, signora Lauretta, aveva bisogno di aiuto in casa: a quei tempi non c’erano elettrodomestici, solo le braccia e le mani per sbrigare le faccende. 
+Un giorno mia madre mi manda a casa della signora Lauretta per fare il bucato: vado in cortile, lavo i panni, e entro in casa per cercare una bacinella per stenderli.  Mentre attraverso il tinello sul comò vedo una rivista con degli strani disegni. 
+Era una rivista di moda, e i disegni erano i modelli per cucire abiti per signore.
+Apro la rivista, la sfoglio e, nel mentre, entra Flavia che mi dice, come per iniziare una conversazione, Ti sei fatta grande e bella, Angela! 
+Divento tutta rossa e rimetto la rivista dove l’avevo trovata. 
+Ti piacciono i vestiti, eh, dice lei, dai, andiamo in camera che te ne faccio vedere qualcuno, e tende la mano verso di me, come per prendere la mia.
+Io mi allontano: Scusatemi, dico, devo andare a stendere i panni
+Va bene, dice lei, sai che facciamo? Ti aiuto, così facciamo prima, e poi andiamo in camera, ti faccio vedere i vestiti, e te ne faccio anche provare qualcuno.
+Ma tu sei una signora, e anche maestra, istruita, con le scuole! Non puoi stendere i panni, non sta bene … le dico meravigliata.
+Lei dice di non preoccuparmi e mi rassicura: prendiamo due bacinelle, usciamo in cortile, e insieme stendiamo i panni, la maestra e la ragazzina esterrefatta.
+(Le luci si allargano a illuminare nuovamente tutta la stanza.
+Domenica si alza e avanza verso la porta)
+DOMENICA: Vado in paese a fare delle compere. Se arriva un cliente, offritegli da bere e ditegli di aspettare ...
+(Domenica esce.
+Si alza il volume della radio.
+Le sarte sono indaffarate a imbastire, cucire e ricamare.
+Si abbassa il volume della radio.
+Entra un giovane di bella presenza con una vanga in mano.)
+MARTINA: Ciao Sabatino, che nuove?
+SABATINO: Le solite ... Un bicchiere d’acqua per favore.
+MARTINA: Dunetta, puoi andare a prendere un bicchiere d’acqua per Luigi?
+(Dunetta si alza ed esce.)
+SABATINO: Martina, ma chi e’ questa?
+MARTINA: Una nuova è; Mariuccia se n’e’ andata a lavorare in citta’.
+Anche li si e’ sparsa la voce la fama di questa sartoria; IL MURO, la chiamano.
+Mariuccia se n'è andata, ma questa nuova è sveglia e sta imparando in fretta ...
+(Dunetta rientra con un bicchiere.
+Luigi posa la vanga, prende il bicchiere, beve, e posa il bicchiere sul tavolo di Martina.)
+SABATINO: Martina, hai sentito di Maria e Francuccio?
+Quale Francuccio? Il fabbro o il falegname?
+SABATINO: Il falegname! Parente tuo è, no? Brutto che non si può vedere!
+MARTINA: Si,  è mio cugino, figlio di zia Ernestina.
+La moglie il mese scorso ha preso armi, bagagli, e bambini, ed è scappata via.
+Nemmeno Pasqualina sa dove sia andata, e sono pochi quelli che riescono a far perdere le tracce a Pasqualina.
+E di quale Maria stavi parlando? Quella che fa il catechismo ai bambini?
+SABATINO: Si, quella ... Adesso tutti i santi giorni porta la pastasciutta in falegnameria ... 
+Franco chiude per pranzo e si trattiene con lei una mezz'ora nel retrobottega ... Maria farà il catechismo anche a lui?
+MARTINA: E che? Sei geloso? Siamo negli anni sessanta, sai?
+(Dunetta sbuffa come infastidita dalle chiacchere.
+Sabatino riprende la vanga in mano e si avvia verso la porta.)
+SABATINO: Grazie dell'acqua Martina, buon pro vi faccia, e arrivederci.
+MARTINA: Arrivederci, Luigi, e mi raccomando: non perdere d'occhio Maria! Ha Ha Ha!
+(Sabatino esce.
+Dunetta va alla porta e guarda fuori.
+Dunetta ritorna a sedersi al tavolo.)
+DUNETTA: Martina, ma chi e’ questo?
+MARTINA: Non lo conosci?!? È Sabatino, il figlio del lattoniere. Sembri proprio appena arrivata da Londra.
+DUNETTA: Lasciamo stare, sai benissimo che mia madre mi tiene sempre chiusa in casa. 
+Ho sudato sette camice per farmi dare il permesso per venire qui. 
+Dal lattoniere mi ci manda, ma questo Sabatino non l'avevo mai visto.
+MARTINA: È un bel ragazzo, no?
+DUNETTA: Mah ...
+BELLA: Bello è bello, ma Romano è un'altra cosa! 
+È biondo come Gesú e ha quegli occhi chiari, come i divi dei teleromanzi ... 
+Ahhhh ... 
+Qui però non si è piú visto ...
+MARTINA: Minuccia si è accorta che te lo stavi mangiando con gli occhi e non lo lascia avvicinare quando ci siamo noi.
+Ogni volta che veniva si avvicinava al muro e guardava, guardava, guardava ...
+BELLA: E se gli lasciassi un messaggio? Martina, scrivigli qualcosa sul MURO, lì, vicino alla porta.
+(Martina si alza dal tavolo, prende una penna dalla cassapanca, si avvicina al muro, e si prepara a scrivere.
+Bella rimane qualche secondo in un atteggiamento pensoso, poi inizia a dettare.
+Maddalena ripete e scrive.)
+BELLA: Romano, ti voglio bene! 
+MARTINA: Romano, ti voglio bene ...
+BELLA: Perché non sei piú ritornato?
+MARTINA: Perché non sei piú ritornato ....
+BELLA: Ti coprirei di carezza e baci, baci, baci ...
+MARTINA: Ti coprirei di carezza e baci, baci, baci ...
+BELLA: Se anche tu, mi vuoi bene, rispondi
+MARTINA: Se anche tu, mi vuoi bene, rispondi ...
+Basta così ... La penna e' sul tavolo: se vuole rispondere, rispondera'. Se sono rose, fioriranno.
+(Martina rimette la penna da dove l'ha presa e si rimette a sedere)
+DUNETTA: Bella, ti piacerebbe imparare a leggere e scrivere?
+BELLA: Eh, Dunetta, analfabeta sono ... Eh, si, mi piacerebbe imparare a leggere e scrivere.
+DUNETTA: C’e’ mia sorella Marta che non si vuole sposare e vuole prima diventare maestra. Potrebbe insegnarti e così fare pratica.
+BELLA: E quando? A casa c’e’ cosi tanto da fare. Mi è appena nato un altro fratello, come se non fossimo abbastanza.
+Tutti maschi poi. Spazzare, lavare, cucinare ...
+DUNETTA: E tu di a tua madre che ci sono da finire dei lavori e devi rimanere qui, e qui Marta viene e ti insegna
+BELLA: Sarebbe bello poter leggere le frasi scritte sul muro e smettere di firmare con una croce ...
+(Le sarte ora ricamano in silenzio.
+Si sente la radio suonare un’altra canzone. 
+Dalla strada arriva un uomo di mezza eta' ma ancora piacente, vestito con abito scuro ed elegante.  
+In testa ha un cappello abbinato con l'abito.
+E' un rappresentate di tessuti e, sotto il braccio destro, tiene dei rotoli di stoffa.)
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+(Bella si alza, abbassa il volume della radio, e si rimette a sedere)
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 123456789012345678901234567890123456789012345678901234567890
+MARTINA: 123456789012345678901234567890123456789012345678901234567890
+(Il Lancianese esce.
+Bella si alza, alza il volume della radio, e si rimette a sedere
+Si sente la radio suonare un’altra canzone. 
+Il volume della radio piano piano si abbassa. 
+Rientra Domenica e si siede alla macchina da cucire)
+MARTINA: Ben tornata, signora. E' passata il Lancianese con dei rotoli di stoffa, che non mi sono sembrati un gran che ...
+DOMENICA: Il Lancianese! Qualche cosa decente qualche volta ce la porta ... 
+Non credo che al momento ce serva niente. Quando ritorna daremo un occhiata.
+(Si sente rumore della macchina da cucire.
+Le luci dentro e fuori si affievoliscono gradualmente.
+Il rumore della macchina da cucire tace.
+Si sente il rumore della notte.)
