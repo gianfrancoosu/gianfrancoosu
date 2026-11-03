@@ -13,7 +13,7 @@ Contadini del paese
 Campagna abruzzese, un'estate alla fine degli anni '60
 
 ATTO I
-17-162-326
+17-162-326-464
 GIORNO PRIMO
 (Si apre ll sipario e rivela l'interno di una grande stanza, lunga cinque metri, con un soffitto basso.
 Sul muro di fronte a noi c’e’ una scritta: “Potete tagliare tutti i fiori, ma non fermerete mai la primavera”. 
@@ -110,7 +110,7 @@ A sgobbare da mattina e sera per lei ed il suo compare mi avrebbe tenuto.
 (Le sarte ricamano in silenzio.
 Dalla radio suona un’altra canzone. 
 Dalla strada arriva una donna anziana e corpulenta, vestita con un tailleur fuori moda e una giacca con uno strappo nel gomito.  
-In testa ha un cappellino, anch'essp fuori moda) 
+In testa ha un cappellino, anch'esso fuori moda) 
 TORA: Ma che cos'e' questo baccano! Spegnete quella radio, che gia' mi ha fatto venire il mal di testa ...
 (Bella si alza, abbassa il volume della radio, e si rimette a sedere.)
 MARTINA: Buon giorno maestra Tora, l'hanno fatta adirare i suoi scolari?
@@ -119,7 +119,7 @@ Degli scolari che non vogliono studiare e non fanno i compiti a casa ne riparler
 Adesso lasciamoli andare in giro con la poca educazione che si ritrovano
 MARTINA: Ma si, lasciamoli divertire ... Ma cos'e' successo alla sua giacca?
 TORA: Or ora facevo una passeggiata in campagna e mi sono avvicinata troppo ad un filo spinato ... Maledetto!
-MARTINA: Mi faccia vedere ... Sembrava peggio ... Si puo' rammendare
+MARTINA: Mi faccia vedere ... Sembrava peggio ... Si puo' rammendare.
 TORA: Meno male! Questo da tanti anni e' il mio tailleur preferito ... 
 MARTINA: Ecco, prenderemo del tessuto da questo punto qui giu' e ricostruiremo la trama.
 TORA: Ci vorra' molto tempo?
@@ -127,7 +127,7 @@ MARTINA: Si, e' un lavoro lungo ed impegnativo.
 TORA: Va bene, Martina, riporto la giacca domani, e ve la lascio. Adesso vado a casa
 MARTINA: Non vuole aspettare la signora? E' uscita per delle commissioni e rientrera' tra poco.
 TORA: No, Salutatemi voi Minuccia.
-MARTINA: Va bene, maestra Tora. Non si preoccupi per la giacca: la rimetteremo a nuovo. Vada con Dio
+MARTINA: Va bene, maestra Tora. Non si preoccupi per la giacca: la rimetteremo a nuovo. Vada con Dio.
 (La maestra Tora esce.
 Bella si alza, alza il volume della radio, e si rimette a sedere.
 Si sente la radio suonare un’altra canzone. 
@@ -148,7 +148,7 @@ Bella si alza, esce dalla stanza dall porta interna, ritorna con un bicchiere d'
 Il contadino prende il bicchiere d'acqua, beve, e lo restitiusce a Bella.)
 CONTADINO TERZO: Grazie comare, buon pro vi faccia ... Vi lascio qualche pomodoro.
 (Il contadino apre la saccoccia che ha in spalla, prende tre pomodori, e li posa sul ripiano della macchina da cucire.)
-DOMENICA: Grazie compare: andate con Dio e salutatemi comare.....
+DOMENICA: Grazie compare: andate con Dio e salutatemi comare...
 (Il contadino esce e si avvia verso il paese.)
 DOMENICA: Care le mie amate state, è ora di chiudere: anche voi andate con Dio e tornate domani.
 (Bella posa il bicchiere sul ripiano della macchina da cucire e inizia a raccogliere i rimasugli di stoffa da terra.
@@ -239,7 +239,7 @@ Ogni volta che veniva si avvicinava al muro e guardava, guardava, guardava ...
 BELLA: E se gli lasciassi un messaggio? Martina, scrivigli qualcosa sul MURO, lì, vicino alla porta.
 (Martina si alza dal tavolo, prende una penna dalla cassapanca, si avvicina al muro, e si prepara a scrivere.
 Bella rimane qualche secondo in un atteggiamento pensoso, poi inizia a dettare.
-Maddalena ripete e scrive.)
+Martina ripete e scrive.)
 BELLA: Romano, ti voglio bene! 
 MARTINA: Romano, ti voglio bene ...
 BELLA: Perché non sei piú ritornato?
@@ -322,4 +322,142 @@ DOMENICA: Aspetta e spera.
 (Si sente rumore della macchina da cucire.
 Le luci dentro e fuori si affievoliscono gradualmente.
 Il rumore della macchina da cucire tace.
+Si sente il rumore della notte.)
+TERZO GIORNO
+(Il rumore della notte tace.
+Si sente il rumore della macchina da cucire.
+La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena.
+Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
+Le luci si concentrano su Domenica.
+Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
+DOMENICA: Entro nella camera di Flavia e spalanco gli occhi per lo stupore!
+Noi avevamo un’unica camera, ed io dormivo in un letto appoggiato sui mattoni, vicino al letto dove dormivano tutti gli altri, avvolta in una vecchia coperta.
+Sul letto di Flavia c’erano coperte di lana nuove, ai piedi del letto, uno specchio a figura intera, e, sulla parete opposta, un grande armadio a tre ante.
+In un angolo poi c’era il catino con la brocca d’acqua ancora calda e fumante, gli asciugamani, una grossa tinozza, con una mensola, dove erano poggiati dei vassoi di ceramica colorata.
+Io mi lavavo con l’acqua fredda nel lavandino della cucina.
+Mi avvicino ai vassoi colorati,e, incuriosita, in modo delicato, li sfioro con il palmo della mano. Vincendo la mia timidezza, le chiedo: “Cosa sono i vassoi?”
+ “Contengono sali da bagno.”, dice Flavia. 
+“Sali da bagno?!?” dico sempre più confusa.
+“Si mettono nell’acqua per il bagno e la profumano. Così la tua pelle avrà quel profumo.” mi spiega, e solleva un coperchio per farmi annusare i sali.
+Poi apre l’armadio e mi fa vedere i vestiti.
+(Luci si allargano.
+Domenica si alza e si avvicina al tavolo di Martina.
+Le due donne parlano sottovoce.
+Martina si alza.
+Le due donne vanno verso la porta d'ingresso ed escono.
+Dunetta e Bella continuano a lavorare e parlano tra loro dell'abito da sposa che stanno confezionando)
+DUNETTA: Hai iniziato con il taglio del corpetto?
+BELLA: Si. E tu? Stai tagliando lo strascico?
+DUNETTA: Si. Questo è davvero un bel tessuto, facile da lavorarci, e farà una gran figura.
+BELLA: Costoso, ma i soldi che hanno speso se li vale tutti.
+DUNETTA: Il padre della sposa ha provato a sollevare delle obiezioni, ma la moglie lo ha subito zittito.
+BELLA: Con l'aiuto dell'amica esperta che si sono portati dietro; a questo servono le amiche, no?
+Quel povero cristo non appena provava ad aprire bocca, veniva subito contradetto dalla moglie, e l'amica giú a dare il colpo di grazia.
+Nostra figlia si sposa una volta sola, non è il caso di fare economie e farci sparlare dietro, diceva lei.
+DUNETTA: La ragazza era timida timida, molto giovane sembrava ... chissà se si sposa per amore.
+BELLA: Gran bella presenza, misure pressochè perfette.
+DUNETTA: La signora Domenica allungando qua e stringendo la le fa sembrare tutte degli angeli, ma con questa non ci sarà bisogno di fare miracoli.
+(Dunetta e Bella  continuano a lavorare.
+Dalla radio per qualche secondo si sente una canzone.
+Dalla porta d'ingresso entra Sabatino con la vanga in mano. 
+Si guarda intorno cercando Martina.)
+SABATINO: Un bicchiere d’acqua per favore.
+(Bella si alza ed esce dalla porta interna.)
+Luigi parla con Elsa.
+SABATINO: Dunetta, vero?
+DUNETTA: Cosi mi hanno chiamano tutti ... Cosa ci fai con la vanga?
+SABATINO: Lavoro al cantiere per l’invaso dell’acqua ... e poi mi porto la vanga a casa per un lavoretto che sto facendo li ...
+(Bella rientra dalla porta interna con un bicchiere.
+Sabatino posa la vanga, prende il bicchiere, beve, e posa il bicchiere sul tavolo di Dunetta.
+Sabatino  si avvicina alle scritte sul muro e inizia a leggere qualche frase, mormorando, sottovoce.)
+DUNETTA: E Come vanno i lavori per l'invaso dell'acqua?
+SABATINO: A rilento ...  “L’amore non e’ bello se non e’ litigarello” ... Ma che stupidaggini sono mai queste?
+DUNETTA: “Stupido non e’ chi stupido e’, ma chi ci fa" ... e tu con la vanga in mano sembri proprio uno che ci fai.
+SABATINO: Cosi Domenica vi paga per imbrattare i muri e fare le spiritose?
+DUNETTA: E tu che vieni sempre qui a bere, leggere il muro, e distrarti con due chiacchere, e non porti mai niente? 
+SABATINO: E cosa vuoi che vi possa portare? Io non ho niente, solo queste braccia.
+DUNETTA: Ma tuo padre e' lattoniere e ci hanno detto che gli affari gli vanno a gonfie vele.
+SABATINO: Provate a farvi portare qualcosa da mio padre, allora, e vi auguro davvero buona fortuna, perche' mio padre non sgancia mai nemmeno una lira.
+DUNETTA: Ma almeno per la dote di tua sorella avra' fatto senz'altro un'eccezione, immagino.
+SABATINO: Beh, voleva che qualcuno se la prendesse, quindi per lui quelli sono stati soldi ben spesi.
+A me certamente non dara' un soldo. Gli ho chiesto piu' volte il soldi per il viaggio in Canada', ma ha sempre accampato delle scuse,
+Ed quindi eccomi qui, con la vanga in mano, a cercare di risparmiare abbastanza per poter finalmente partire. 
+DUNETTA: A proposito di tua sorella, ci hanno anche detto che l’abito da sposa se lo e’ fatto fare a Lanciano.
+SABATINO: Ma cosa dici? Non e' vero! Ma parche' poi dovrebbe essere andata a fino a Lanciano, quando ci sono buone sartorie anche qui in paese?
+DUNETTA: Il rappresentante che viene in paese, va anche alla sartoria dove è andata tua sorella, e ci ha detto che l'ha vista mentre le prendevano le misure.
+SABATINO: Quello! E' un bugiardo e anche donnaiolo incallito! Con la scusa di portare i tessuti, quando non c'è Domenica, prova ad allungare le mani anche con voi.
+Meno male che Martina lo fa stare al posto suo e gliele canta di santa ragione.
+DUNETTA: Certo che per essere un uomo sei veramente un gran pettegolo!
+SABATINO: Ma che pettegolo e pettegolo! Lo sanno tutti che quello se n’e’ venuto qui da Napoli con moglie e prole.
+Tutto per sfuggire a orde di mariti gelosi che aveva alle calcagna. Altrimenti sarabbe rimasto li, che almeno il tempo e' migliore. 
+Dopo il decimo figlio, la moglie si sara stancata di rimanere in cinta e di lui adesso non ne vuole piu’ sapere.
+Ma no che mia sorella l'abito da sposa non se lo e’ fatto fare a Lanciano.
+DUNETTA: Allora se lo sara' fatto fare in paese, ma invece di venire da noi, e' andata dalla concorrenza,
+Noi avremo senz’altro fatto un lavoro migliore, e poi saremmo andate a farle la serenata,
+SABATINO: Eh le vostre serenate! Ve le raccomando!
+Siete stonate come delle campane, e vi mangiate questo e quell'altro.
+Beh, si è fatto tardi ... Grazie dell'acqua e arrivederci.
+DUNETTA: Arrivederci ... E non dimenticare la vanga.
+(Sabatino prende la vanga ed esce dalla porta d'ingresso.
+Dalla radio per qualche secondo si sente una canzone.
+Rientrano Domenica e Martina.
+Domenica si siede alla macchina da cucire, Martina si siede sul tavolo a ricamare.
+Dalla strada arriva la maestra Tora, vestita con un altro tailleur fuori moda.
+Sul braccio ha la giacca strappata sul gomito.  
+In testa ha un altro cappellino, anch'esso fuori moda.) 
+TORA: Buongiorno, Minuccia.
+DOMENICA: Buongiorno, Toruccia. Ha gia' fatto la passeggiata? Sei arrivata lontano? Fino alla fonte?
+TORA: No, niente passeggiata oggi, sono di cattivo umore.
+DOMENICA: Ma quando mai? Cos'e' successo? 
+TORA: Mia nipote e' stata rimandata in matematica. Le sto dando ripetizioni, ma l'algebra non le vuole entrare in testa. 
+DOMENICA: E che cos'e' l'algebra?
+TORA: E' come l'aritmetica, ma ci sono delle incognite. Per esempio se una cesta ci sono due arance e due mele, e provi a sommarle ...
+DOMENICA: Due piu' due uguale quattro, no?
+TORA: Cosi la pensa anche mia nipote, e invece no: non si possono sommare le arance con le mele.
+(La maestra Tora si avvicina alla cassapanca, prende una penna rossa e scrive sul muro: 
+"2a + 2m non fa 4".
+La maestra Tora rimette la penna dov'era.)
+Ma lasciamo perdere l'algebra: ecco la giacca strappata.
+(Tora si avvicina alla macchina da cucire e porge la giacca strappata a Domenica.
+Domenica prende la giacca e ne valuta il tessuto)
+DOMENICA: Bella giacca. Certo il taglio non e' proprio attuale, ma lo strappo si puo' rammendare.
+TORA: Meno male! Questo da tanti anni e' il mio tailleur preferito ... 
+DOMENICA: Ecco, riprenderemo il tessuto e da questo punto in poi ricostruiremo la trama.
+TORA: Benissimo! Quando posso ritornare a prenderla?
+DOMENICA: Ci vorra' qualche giorno. Ci vuole pazienza e attenzione per fare un lavoro ben fatto, ma alla fine non si vedra' niente, come se non fosse stata mai strappata.
+Qui l'algebra non e' di casa, ma il nostro mestiere lo conosciamo bene.
+TORA: Va bene, Domenica, allora passo tra una decina di giorni. Adesso vado a casa.
+DOMENICA: Non prendi qualcosa? Un bitter? Un'aranciata? Almeno un bicchiere d'acqua!
+TORA: No, grazie: non ho sete. Arrivederci, Minuccia.
+DOMENICA: Arrivederci, Tora. E non arrabbiarti con tua nipote. Se studiare non e' cosa sua, portacela qui, che le insegnamo a tagliare e cucire. Vai con Dio.
+(La maestra Tora esce.
+La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
+Domenica fa cenno alle sarte che la giornata e’ finita e che possono andare.
+Le sarte posano i ricami, si alzano, ed escono dalla porta d’ingresso.
+Martina e Dunetta vanno verso il paese.
+Bella inizia ad andare con loro, poi rientra e dice sottovoce due parole ad Domenica.
+Domenica acconsente con il capo, ed esce dalla porta interna.
+Bella si siede al suo tavolo e attende.
+Dalla porta d'ingresso entra una giovane donna con un libro in mano.
+E' molto bella ed e' vestita con una maglietta ed una gonna che le arriva poco sopra il ginocchio.)
+BELLA: Ciao Marta, grazie di essere venuta.
+MARTA: Ciao Bella, qui vengo sempre con piacere; in paese questa è la casa della cultura.
+Lo sanno tutte, dalle maestrine alla lavandaie .. Ecco le frasi sul muro ... Vediamo cosa c'è di nuovo ... 
+(Marta si avvicina al muro e legge.)
+“Date a un uomo un pesce e mangerà un giorno. Insegnategli a pescare e mangerà tutta la vita”.
+“Straziami, ma di baci saziami” ... 
+(Marta posa il libro sulla cassapanca, prende una penna nera, e scrive sul muro: "La bellezza salverà il mondo - Fëdor Dostoevskij".) 
+Beh, bando alle ciance: cominciamo
+(Marta rimette la penna dov'era, riprende il libro, lo apre, lo posa sul tavolo davanti a Bella.
+Le due confabulano per qualche secondo.
+Poi come per magia Bella inizia a leggere lentamente ma con voce chiara e precisa.)
+BELLA: Lenta la neve fiocca, fiocca, fiocca.
+Senti: una zana dondola piano piano.
+Un bimbo piange, il piccolo dito in bocca;
+Canta una vecchia, il mento sulla mano.
+La vecchia canta: intorno al tuo lettino
+C'è rose e gigli, tutto un bel giardino.
+Nei bel giardino il bimbo si addormenta
+La neve fiocca lenta, lenta, lenta.
+(Le luci dentro e fuori si affievoliscono gradualmente.
 Si sente il rumore della notte.)
