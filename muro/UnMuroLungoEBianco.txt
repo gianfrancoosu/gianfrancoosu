@@ -363,7 +363,7 @@ Dalla porta d'ingresso entra Sabatino con la vanga in mano.
 Si guarda intorno cercando Martina.)
 SABATINO: Un bicchiere d’acqua per favore.
 (Bella si alza ed esce dalla porta interna.)
-Luigi parla con Elsa.
+Sabatino parla con Dunetta.
 SABATINO: Dunetta, vero?
 DUNETTA: Cosi mi hanno chiamano tutti ... Cosa ci fai con la vanga?
 SABATINO: Lavoro al cantiere per l’invaso dell’acqua ... e poi mi porto la vanga a casa per un lavoretto che sto facendo li ...
@@ -599,9 +599,10 @@ Il rumore della macchina da cucire tace.
 Si sente il rumore della notte.)
 TELA
 ATTO II
-745-900-1050
+752-900-1050
 GIORNO PRIMO
-(Il rumore della notte tace.
+(Si sente il rumore della notte.
+Il rumore della notte tace.
 Si sente il rumore della macchina da cucire.
 La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
@@ -642,7 +643,7 @@ MARTINA: Un abito di gran classe, proprio come avevo consigliato io.
 BELLA: Hai visto il padre che faccia ha fatto quando e' arrivato il momento di cacciar fuori i soldi?
 MARTINA: A certe persone, quando gli fai tirare fuori i quattrini, e come se gli stessi prelevando il sangue.
 BELLA: La sua faccia ha cambiato colore, le mani gli tremavano, la voce fiocca fiocca mentre contava i soldi.
-MARTINA: Dia a me, gli ha detto Angela, ed i soldi glieli ha dovuti contare lei.
+MARTINA: Dia a me, gli ha detto Domenica, ed i soldi glieli ha dovuti contare lei.
 BELLA: E poi hai visto quando la moglie gli ha detto di lasciare qualcosa in piu' per le ragazze?
 MARTINA: Si, ed io mi sono girata per vedere le "ragazze", poi ho capito che eravamo noi.
 BELLA: Lui aveva appena iniziato a riprendere colore, ed allora ha ricominciato con le smorfie.
@@ -740,5 +741,487 @@ SABATINO: Potremmo sposarci, anche se tua madre non e' d'accordo, e poi partire.
 DUNETTA: In Canadà anche se sposata senza dote e senza corredo non voglio andare.
 SABATINO: Allora bisogna avere pazienza e bisogna aspettare ...
 DUNETTA: Io non posso piu’ di aspettare, non posso perdere questa occasione, 
-(La luce fuori poco a poco si spegne.
+(Le luce fuori poco a poco si spegne.
 Si sente il rumore della notte.)
+GIORNO SECONDO
+(Il rumore della notte tace.
+Si sente il rumore della macchina da cucire.
+La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
+Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
+Le luci si concentrano su Domenica.
+Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
+DOMENICA: Iniziai a fare i vestiti per la bambola con i ritagli di stoffa degli abiti della maestra Flavia. 
+Guardavo la stoffa, guardavo il vestito della maestra fatto con quella stoffa, e lo rifacevo uguale uguale, solo piú piccolo, per la bambola.
+Dopo qualche settimana, la bambola aveva tanti vestiti, quasi quanti ne aveva Flavia.
+Mia madre all'inizio mi lasciava fare, poi mi disse che stavo perdendo tempo e che c'erano cose da fare per casa.
+Io facevo le cose, e poi tornavo a tagliare e cucire. 
+A quel tempo c'era una sarta in paese, una signora un tempo ricca e nobile, adesso solo nobile.
+La guerra e varie vicissitudini avevano fatto sparire la ricchezza e tutti i parenti, nobili anch'essi, che erano andati via.
+La signora era rimasta e si era inventata un mestiere.
+Qualche volta passava a casa a comprare le primizie dei campi che mio padre portava in paese, e un giorno mi vide cucire.
+Signora Giovanna, disse a mia madre, ma sa che sua figlia e' proprio brava!
+Mincuccia, chi te lo ha insegnato a cucire? Verresti da me ad aiutarmi? In questo periodo ho un bel da fare, e due mani in piú mi farebbero proprio comodo.
+Si, signora, mi piacerebbe molto, ma a casa ci sono tante cose da fare, e non posso lasciare mia madre da sola, risposi a malincuore.
+Mia madre guardava la signora e guardava me, vide che la signora diceva sul serio, e vide la luce nei miei occhi.
+La signora non perdeva tempo a insegnare: era troppo indaffarata, e così prendeva con se solo donne già esperte.
+Mia madre sapeva solo rattoppare vecchi vestiti e non aveva mai guardato con attenzione gli abiti della bambola.
+Sapeva però che se la signora mi voleva con se e che se io volevo andare, quella era un opportunità importante.
+Disse alla signora di ritornare la sera, quando mio padre sarebbe ritornato dai campi.
+Certe decisioni non si potevano prendere in fretta e furia e senza consultare il marito.
+Mio padre dava comunque di solito retta al buon senso di mia madre e sorrideva sempre quando mi vedeva felice.
+Cosi qualche giorno dopo iniziò il mio apprendistato e cominciai a tagliare e cucire per mestiere.
+(Le luci si allargano e illuminano  nuovamente tutta la stanza.
+Domenica si alza e si avvicina al tavolo di Martina.
+Le due donne parlano sottovoce.
+Martina si alza.
+Le due donne vanno verso la porta d'ingresso ed escono.
+Dunetta e Bella continuano a lavorare.
+Dalla radio suona per qualche secondo una canzone.
+Dunetta e Bella guardano il muro, dove notano qualcosa.
+Dunetta e Bella si alzano, vanno verso il muro, e parlano tra loro.)
+DUNETTA: Guarda! Romano ha fatto un disegno con il carbone.
+BELLA: Ma che cos'e'? Non e' certo un cuore. Potrebbe essere in trifoglio.
+DUNETTA: Te lo avevo detto io che sa leggere e scrivere solo il suo nome: eccolo li.
+BELLA: Malfatti Romano, piccolo piccolo, sotto il disegno con caratteri incerti e tremolanti.
+Non solo non sa scrivere: non sa nemmeno disegnare! Cosa sarà quello sgorbio?
+DUNETTA: Forse era eccitato dalle labra, ha provato a fare qualcosa di osceno, ma non gli e' riuscito.
+BELLA: Ho capito: quelle sono le orecchie di una lepre; l'ho visto domenica con una lepre in mano.
+DUNETTA: E' andato con il marito della signora a cacciare e hanno riportato quella lepre e un paio di fagiani.
+Offre la lepre come pegno d'amore. E' veramente un gran romanticone. Auguri e figli maschi.
+BELLA: No, quelli sono i petali di un fiore. Ha iniziato a disegnare, e poi deve averlo sorpreso la signora, ed ha dovuto smettere.
+DUNETTA: Potrebbe essere, oppure non sa proprio disegnare, punto e basta.
+BELLA: Vedremo ... Lasciamogli allora il tempo di completare questo disegno.
+Potremo anche aspettarlo nascoste dietro l'angolo che rientri la sera e parlargli senza che ci veda la signora.
+DUNETTA: No, aspettiamo domani e vediamo se disegna qualcos'altro.
+Rimettiamoci al lavoro: la signora starà per rientrare.
+(Dunetta e Bella si siedono a riprendono a ricamare.
+Per qualche secondo dalla radio suona una canzone.
+Rientra Domenica e si siede alla macchina da cucire.
+Si sente il rumore della macchina da cucire.
+La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
+Arriva un contadino, Bella si alza, esce dalla porta interna, e ritorna con un bicchiere d'acqua.
+Bella porge il bicchere d'acqua al contadino, che prende il bicchiere e beve.
+Il contadino restituisce il bicchiere a Bella, fa un cenno di saluto e va via.
+Bella esce dalla porta interna con il bicchiere, rientra, si mette a sedere, e ricomincia a ricamare.
+La macchina da cucire tace.
+Domenica fa cenno a Dunetta e Bella che la giornata è finita e che possono andare.
+Le sarte posano i ricami, si alzano, ed escono dalla porta d’ingresso.
+Bella va verso il paese, ma Dunetta si ferma ditro la finestra.
+Domenica si avvicina alla porta d'ingresso per chiuderla, quando Dunetta riappare sulla soglia.)
+DUNETTA: Signora, permettete due parole?
+(Dunetta entra e Domenica chiude la porta)
+DOMENICA: Cosa c’e’, figlia mia?
+DUNETTA: Volevo chiederle un consiglio.
+DOMENICA: Si tratta di Sabatino?
+DUNETTA: Si, mi ha chiesto di sposarlo ...
+DOMENICA: Mi sembra un bravo giovane: lo hai gia’ portato in casa da tua madre?
+DUNETTA: No, perche’ e’ solo mia madre che porta gli uomini in casa, ma soltanto per mia sorella: e’ lei che si deve sposare, non io.
+DOMENICA: E’ a te non ti vuole far sposare?
+DUNETTA: Si, ma prima mi vuole sfruttare per bene, lei e il suo compare. “Porta il pane, porta il vino, spazza per terra” ... E non mi dara' mai la dote, per non parlare del corredo ... (Dunetta singhiozza.) ... Come posso fare?
+DOMENICA: La cosa migliore sarebbe che tua madre ti desse la sua benedizione. Provero’ a parlarglienene, altrimenti troveremo un altro sistema.
+DUNETTA: Ma non c'e' tanto tempo da perdere: Sabatino sta per andare in Canada' e io voglio sposarlo e partire con lui.
+DOMENICA: Va bene figlia mia, vedremo cosa si puo' fare.
+DUNETTA: Grazie signora, grazie di cuore.
+DOMENICA: Stai tranquilla Dunetta, adesso vai a casa.
+Stai serena e prega: Dio vede e provede.
+(Domenica va ad aprire la porta.
+Dunetta fa un cenno di saluto ed esce.
+Domenica chiude la porta e si rimette a lavorare alla macchina da cucire.
+Si sente il rumore della macchina da cucire.
+La porta si apre e rientra Martina.
+Martina si siede al suo tavolo a ricamare.
+Domenica e Martina iniziano a parlare.)
+DOMENICA: Martina, lo sapevi che Dunetta e Sabatino si vogliono sposare?
+MARTINA: No, li ho visti fare all'amore, ma non ero sicura che fosse una cosa seria.
+E poi lui e' in partenza: va in Canada' a cercare la fortuna, a cercare del pane migliore di quello di frumento. "Non andate a cercare del pane migliore di quello fi frumento.", ha scritto una professoressa sul MURO l'altro giorno.
+Allora si sposano prima che lui parte, o lei lo aspettera', sperando che ritorni?
+DOMENICA: Vorrebbero sposarsi e partire insieme.
+MARTINA: Auguri e figli maschi, allora.
+DOMENICA: Fosse cosi semplice: bisogna convincere Rosalinda. Quella e' sempre stata possessiva, gelosa, e testarda. Dunetta non le ha ancora detto niente, per paura che lei non sia d'accordo.
+E se Rosalinda non e' d'accordo, bisognera' trovare il modo per fare avere Dunetta una dote ed il corredo. 
+MARTINA: Dunetta oltre al corredo avrà anche bisogno di consigli.
+L'uomo a volte quando si sposa vuola una serva, e poi la donna deve avere a che fare con la suocera, anche se Dunetta se ne va in Canada e almeno la suocera non la vede nemmeno con il cannochiale.
+Pero'  a maggior ragione Dunetta avrà bisogno di consigli, nè la madre prima di partire, nè la suocera che rimane qui in paese gliene daranno.
+DOMENICA: Glielo dovremo dire noi a Dunetta come si comporta una donna sposata per evitare intoppi e incomprensioni.
+Quando mi sono sposata io, mio marito era gentile, ma una casa nostra non ce la potevamo permettere. Da mia suocera siamo dovuti andare, ed era in paese lontano, dall'altra parte della vallata, come fosse stato dall'altra parte del mondo.
+MARTINA: Lei non avrà a che fare con la suocera, ma in Canado' ci sarà senz'altro della parentela a volersi impicciare dei fatti loro. Dobbiamo preparare Dunetta ad essere calma e paziente.
+I giovani sono focosi ed impulsivi, Sabatino avra' le sue abitudini e le sue manie, Dunetta le dovra' accettare ... Fino ad un certo punto pero' ... Dovra' anche farsi rispettare e ritagliarsi il proprio spazio.
+DOMENICA: Il matrimomio non e' per tutti, diceva una mia zia zitella convinta.
+E aveva ragione, ma alla fine si e' sposata pure lei, a trent'anni suonati, con un emigranto ritornato dal Belgio con un bel gruzzoletto.
+Meglio sposarsi quando si e' giovani, pero', maturare insieme, avere figli quando si hanno ancora energie da vendere per crescere i figli. Quanti anni avevi tu quando ti sei sposata?
+MARTINA: Ventitre. Leonardo e' stato il primo che si e' proposto. Avrei potuto aspettare e vedere se qualcun altro si faceva vivo, ma, anch'io, come Dunetta, avevo paura di perdere l'occasione. D'altro canto non mi posso lamentare: i figli sono arrivati, lui non beve piu' di tanto, non bestemmia, e quando mi fa male la testa, mi lascia in pace. E i figli crescono, senza darci troppe preoccupazioni, almeno per il momento.
+DOMENICA: Anch'io sono contenta di mio marito, ma la convivenza con mia suocera era per me un grosso problema, ed avevo troppa nostalgia del paese mio.
+Cosi, appena abbiamo potuto, siamo ritornati qui, e lui ha costruito questa casa con le proprie mani. Romano adesso lo sta aiutando a risistemare il tetto.
+MARTINA: Nel matrimonio la cosa piu' importante e' accettare le differenze.
+Costruire una vita in comune, dove ognuno dei due abbia la propria autonomia,
+Attraversare le fasi faticose facendosi forza a vicenda, avere fiducia l'una nell'altro, e amarsi nella buona e nella cattiva sorte, nella gioia e nel dolore, nella salute e nella malattia, come dice la formula magica.
+DOMENICA: Sante parole, Martina! Finche' morgte non ci separi. Alleluia. Amen. E cosi sia.
+(Si sente il rumore della macchina da cucire.
+Le luci dentro e fuori si affievoliscono gradualmente.
+Il rumore della macchina da cucire tace.
+Si sente il rumore della notte.)
+====================================================================================
+SETTIMO GIORNO
+
+
+NARRAZIONE
+Il rumore della notte sfuma.
+Si accendono le luci gradualmente dentro e fuori.
+Nella stanza illuminano la stessa scena del giorno prima.
+Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
+Domenica si alza e si avvicina al tavolo di Martina.
+Le due donne parlano sottovoce.
+Martina si alza.
+Le due donne vanno verso la porta.
+Domenica si ferma davanti al muro e nota qualcosa.
+Domenica inizia a leggere.
+
+DIALOGO, Domenica, CLARA, Dunetta
+Romano ti voglio bene ... Perche' non sei piu' ritornato? ... Ti coprirei di ...
+Martina! Da te proprio non me lo aspettavo ...
+Romano, ma perche' non rispondi? Io non sono di legno, ma di carne e ossa ... Il mio cuore batte forte per te ...
+Bella! Chi ti ha insegnato a scrivere queste cose?
+Romano, Romano, tu che ce l'hai sempre in mano
+tu che non sai fare all'amore
+tu che sembri triste ... su andiamo
+ascolta Bella e cambierai certo d'umore
+Dunetta! Vieni qui con il secchio e lo straccio e cancella tutto!
+Ma signora, si fa per scherzare, tra noi, per farci due risate.
+Si, non glielo mangiamo mica il suo Romano.
+Non e' poi cosi innocentino nemmeno lui. Guardi che cosa ha fatto con il carbone.
+Cancellate tutto subito! Domani chiamo mio marito e faccio imbiancare tutto il muro.
+Ritornera' ad essere un muro lungo e bianco, un muro normale, senza la spazzatura delle vostre menti sconce.
+E cosa diranno le maestre? Anche loro vengono e scrivono sul muro.
+Tanta gente viene a leggere e scrivere: rimarranno tutti tristi e delusi.
+Che male c'e' se per distrarci scriviamo qualcosa? Il lavoro glielo facciamo o non glielo facciamo lo stesso.
+Per ora cancellate queste sconcezze che avete scritto, queste labbra, e questi disegni, quelli rossi e quelli neri, poi si vedrà.
+
+NARRAZIONE
+Domenica ancora indignata si risiede alla macchina da cucire.
+Si sente il rumore della macchina da cucire.
+Le sarte prendono un secchio e degli stracci e si affaccendano sul muro.
+Martina esce.
+Bella ed Dunetta vanno a sedersi e riprendono i loro ricami,
+Domenica pensa ad altro e inizia a calmarsi.
+La macchina da cucire tace.
+Luci su Domenica.
+
+Domenica
+La sarta nobile decaduta da cui ho imparato il mestiere si chiamava Agata.
+Certo che con lei non ci prendevamo tutte queste confidenze e non ci sognavamo nemmeno di imbrattare i muri.
+Pero' ti trattava con rispetto; ti faceva sgobbare, ma il giusto te lo pagava.
+Era una brava mestierante, che rimetteva a nuovo certi abiti lisi e consunti arrivati da noi in fin di vita.
+Faceva anche abiti nuovi, da uomo e da donna; si, su misura, ma sempre gli stessi due o tre modelli.
+Dopo qualche tempo mi sono permessa di farle vedere un modello nuovo della rivista della maestra Flavia, senza dirle da dove proveniva, e lei lo ha guardato con degli occhi curiosi, ma come se guardasse caratteri di una lingua straniera.
+Poi le ho fatto vedere le fotografie degli abiti, e lei ha subito riconosciuto i vestiti di Flavia, ma subito dopo ha allargato le braccia. 
+Cosi, come per dire che quella era robba per gente sofisticata, che non avrebbe mai preso piede in paese. 
+Sono cose per la gente di citta', disse laconicamente alla fine, qui sono fuori posto. 
+In citta'! Voglio andare in citta'! dissi a mia madre quella sera.
+In citta'? In citta' le ragazze come te si perdono, disse mia madre.
+No, io non mi perderò e imparerò a fare abiti per i cittadini, tagliando e cucendo seguendo i modelli, ribattei io.
+Va bene, adesso scrivo a tua zia a Pescara, e vediamo se lei conosce qualcuno, rispose lei.
+Quando Agata seppe che andavo a Pescara, non la prese bene.
+Pensoò che fossi un ingrata e mi tolse la parola.
+Quando poi sono ritornata e ho aperto questo posto, apriti cielo!
+Mi sono allevata una serpe in seno, sparlava con le amiche.
+Adesso se n'e' fatta una ragione, anche se ancora non mi saluta ...
+
+NARRAZIONE
+Le luci si allargano.
+La radio suona una canzone e poi tace.
+La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
+Passa un contadino, beve un bicchiere d’acqua e va via.
+Domenica fa cenno ad Dunetta e Bella che la giornata è finita e che possono andare.
+Le sarte posano i ricami, si alzano, ed escono dalla porta d’ingresso.
+Dunetta e Bella vanno verso il paese,
+Domenica aspetta davanti la porta.
+Dal paese arriva una donna austera, ed entra.
+Domenica e la donna si fermano al centro della stanza.
+
+DIALOGO, Domenica, ROSALINDA
+Rosalinda, ti ho mandato a chiamare perche’ debbo dirti qualcosa.
+Si tratta di Dunetta?
+Si ...
+Lo sapevo che venire a lavorare qui e’ stato uno sbaglio e non e’ adatta a tagliare e cucire
+No, non e’ questo. Anzi è molto portata. E’ invece che ha deciso di sposarsi e mi ha chiesto di parlare con te, perche’ ha paura che tu non acconsenti
+E’ con chi si vorrebbe sposare? Non acconsento no! Lo sapevo che qui si sarebbe riempita la testa di fandonie. A casa deve tornare. Tra poco Marta si sposa ed io ho bisogno di aiuto. Dunetta e’ giovane e a sposarsi c’e’ tempo per lei
+Ma all’amor non si comanda ...
+Si comanda sì!
+Ma proprio tu che te la intendi con il compare fai storie per tua figlia che vuole bene a Sabatino.
+Anche tu sarai innamorata del compare e dovresti capire tua tua figlia.
+Lei almeno vuole sposarsi e mettersi in regola.
+Innamorata del compare? Ma ti e' andato di volta il cervello? Tu tuo marito ce l'hai ancora, io ho bisogno di un uomo per casa per il lavori pesanti, E i campi? Chi ci andrebbe a seguire i campi se non ci fosse il compare? Innamorata! Questa e' bella ...
+
+NARRAZIONE
+Rosalinda esce in fretta e furia.
+Domenica chiude la porta e delusa si risiede alla macchina da cucire.
+Si sente il rumore della macchina da cucire.
+La porta si apre e rientra Martina.
+Martina si siede al suo tavolo a ricamare.
+Domenica e Martina iniziano a parlare.
+
+DIALOGO, Domenica, Martina
+Eh, questa sartoria non va piu’ cosi bene come una volta.
+Certo non va nemmeno male, ma ha senz’altro gli anni contati.
+La gente non vuole più spendere per abiti su misura e le future spose se ne vanno in città a cercare le ultime mode.
+Qualche soldo però ancora lo facciamo e mio figlio e mia figlia sono sistemati e non hanno bisogno di niente; Dunetta e Marta mi fanno pena e questi soldi che la sartoria mi rende sono ben spesi per aiutarle.
+Contatterò certe conoscenze che ho a Bologna per organizzare gli studi di Marta.
+Ad Dunetta darò in prestito il denaro per una piccola dote e le comprerò i tessuti necessari per il corredo. Dunetta e Bella verso la fine della giornata potranno lavorare al corredo di buona lena e presto ce ne sara’ abbastanza per potersi sposare.
+Le darò qualcosa della figlia.
+Alcune clienti porteranno qualcosa.
+Le maestre aiuteranno a comprare le cose che mancano.
+Andrò con la maestra Tora a parlare con Rosalinda dopo che Dunetta scappa per vedere se riusciamo a calmarla.
+Prima o poi anche lei si dara' pace.
+Vedremo un po' come andra' a finire.
+Che Dio ci aiuti e ci abbia in gloria ...
+
+NARRAZIONE
+Le luci poco a poco si spengono.
+Si sente il rumore della notte.
+
+Tora viene a riprendersi la giacca
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+Il lancianese porta rotolo e campione per abito da sposa
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+====================================================================================
+
+
+OTTAVO GIORNO
+=============
+
+NARRAZIONE
+Il rumore della notte sfuma.
+Si accendono le luci gradualmente dentro e fuori.
+Nella stanza illuminano la stessa scena del giorno prima.
+Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
+Luci su Domenica.
+
+Domenica
+Non mi pento di nulla, eccetto di quello che non ho fatto: lo ha detto Coco Chanelle.
+Meglio avere rimorsi che rimpianti, ho sentito dire spesso ai nostri saggi qui in paese.
+Come mai faranno a essere saggi? Il loro mondo si ferma a questo orizzonte.
+Non hanno mai visto niente al di la' della cresta di quelle montagne.
+Questo pensano i giovani di oggi, e partono alla conquista del mondo.
+Mio marito e' andato in Venezuela, io avrei dovuto raggiungerlo, ma poi lui si e' ammalato ed e' dovuto ritornare.
+Ed ora eccoci qui, lui a fare case, ed io a fare abiti, anche per maestre.
+Le maestre vengono, leggono e scrivono sul muro, si fanno due chiacchere, e raccontano a volte strani miti.
+La maestra Tora mi ha spiegato che un abito inizia con un'idea, nella testa dello stilista, come l'ombra di un pupazzo, proiettata da un fuoco sul muro di una caverna.
+Il modello dell'abito e' il pupazzo, piu' reale dell'ombra sul muro.
+L'abito di stoffa e' ancora piu' reale, ma solo quando viene indossato prende finalmente vita.
+Io faccio abiti, e voi li indossate e li fate vivere.
+
+NARRAZIONE
+Luci si allargano.
+Martina e Bella parlano tra loro a voce bassa.
+
+DIALOGO, Martina, Bella
+Sei stata al matrimonio sabato scorso?
+Si, ma chi l'ha fatto l'abito della sposa?
+Non lo so, ma visto che non l'abbiamoMartina fatto noi ...
+L'hanno fatto a Lanciano? O a Pescara?
+Non credo ... Buffo com'era, la sarta e' come se lo avesse firmato.
+Agata! Mi era anche sembrato di sentire degli asini ragliare la settimana scorsa.
+Invece erano le sue lavoranti che facevano la serenata alla sposina ...
+Eppure anche Agata lavora e continuano ad andare da lei.
+Persone invidiose o che vogliono spendere poco.
+Si, ma vivi e lascia vivere: i cavalli nitriscono, le pecore belano, gli asini ragliano
+
+NARRAZIONE
+La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
+Passa un contadino, beve un bicchiere d’acqua e lascia tre pomodori.
+Domenica fa cenno alle sarte che la giornata è finita e che possono andare.
+Le sarte posano i ricami e si alzano.
+Martina e Bella si avvicinano ad Domenica e le lasciano una busta.
+Martina e Bella escono dalla porta d’ingresso e vanno verso il paese,
+Domenica e Dunetta rimangono in mezzo alla stanza.
+
+DIALOGO, Dunetta, Domenica
+Il corredo e’ finito; tra poco Sabatino mi viene a prendere.
+Poco lontano da qui c'e' un suo amico con la macchina che ci aspetta.
+Ci porta in citta'; questa notte dormiremo in albergo; domani ci sposeremo.
+Sabatino ha un parente lontano e staremo da lui; poi, se mia madre si calma, ritorniamo.
+Altrimenti partiremo direttamenti per il Canadà ... Meglio salutarci ora.
+Mi mancherai, figlia mia! Fatti onore in Canadà. 
+Quando arrivi, mandaci una cartolina.
+E mi raccomando, scrivici il piu' spesso che puoi.
+Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
+
+NARRAZIONE
+Arriva Marta con una valigia.
+Marta posa la valigia e abbraccia Dunetta e Domenica.
+Anche Dunetta e Domenica si abbracciano.
+
+DIALOGO, MARTA, Domenica
+Grazie di tutto, signora! Aspetto qui un passaggio per andare a prendere il treno
+Mi mancherai, figlia mia! Fatti onore a Bologna! 
+Quando arrivi, mandaci una cartolina.
+E mi raccomando, scrivici il piu' spesso che puoi.
+Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
+
+NARRAZIONE
+Si sentono dei tuoni lontani.
+Si vedono dei lampi attraverso la porta e la finestra.
+Arriva un contadino trafelato ed entra.
+
+DIALOGO, CONTADINO, Dunetta
+Avete sentito i tuoni? Mamma mia, che acquazzone! L'acqua portò via tutto lo scavo dell’invaso e una frana ha travolto gli operai: tutti sepolti ... 
+Proprio tutti? Non si e' salvato nessuno?
+Si, tutti ... tutti ... Si scava, ma con poche speranze
+Sabatino! Sabatino! (gridando)
+
+NARRAZIONE
+Dunetta corre fuori e si ferma davanti alla finestra.
+Dunetta rientra e si accascia tra le braccia di Marta.
+
+DIALOGO, MARTA, Dunetta
+Io non parto piu’, Dunetta, e rimango qui con te
+No, almeno tu non rinunciare ai tuoi sMartinaogni (singhiozzando)
+Non posso lasciarti in questo stato
+No, almeno tu vai via da questo posto maledetto
+
+NARRAZIONE
+Si sentono dei passi pesanti e incerti.
+Un'ombra appare prima davanti alla finestra poi davanti alla porta.
+Sabatino entra nella sartoria pieno di fango e con la faccia stravolta.
+Dunetta lo vede, gli corre incontro e piangendo lo abbraccia,
+Si spengono le luci dentro.
+Si sente il rumore della notte.
+Tace il rumore della notte.
+Si riaccendono le luci dentro.
+Marta e' andata via.
+Sabatino adesso e' pulito e tiene per mano Dunetta.
+Domenica da a Sabatino la busta che le hanno dato Martina e Bella.
+
+DIALOGO, Domenica, Sabatino
+Sabatino, ecco la colletta che hanno fatto le sarte, le maestre, e le altre clienti ...
+Grazie signora, grazie di cuore, grazie a tutte loro, che Iddio le ricompensi.
+Sabatino, ti raccomando Dunetta: e' come se fosse mia figlia ... Ha una piccola dote ma un cuore grande cosi: vogliatevi bene e siate felici.
+Grazie signora, grazie di tutto, se non fosse stato per voi ...
+Aspettate, vi accompagno ...
+
+NARRAZIONE
+Sabatino, Dunetta e Domenica escono.
+Si spengono le luci dentro.
+Si sente il rumore della notte.
+Tace il rumore della notte.
+Si riaccendono le luci su un tavolo vuoto.
+Tutto intorno e' buio: si vede solo il tavolo.
+Arriva Dunetta con una sedia.
+Si siede al tavolo e scrive.
+Fuori fischia il vento e infuria la bufera.
+Dunetta posa la penna, prende il foglio in mano, e legge.
+
+Dunetta
+Carissima signora Domenica, carissime stimate ex colleghe Martina e Bella,
+Se vi dicessi che il Canada' e' un paradiso, vi direi una grossa bugia.
+Anche la traversata dell'oceano e' stata lunga e faticosa, senza poi aver niente da fare.
+Siamo arrivati ad Halifax stremati e ci hanno tenuti li parecchi giorni per sbrigare certe pratiche, prima che ci lasciassero andare.
+Abbiamo viaggiato in treno e dal finestrino abbiamo visto boschi e laghi.
+Come sono belli i boschi e i laghi del Canada', diceva Sabatino all'inizio.
+Ore e ore di treno, interminabili, sempre boschi e laghi, nient'altro.
+I parenti di Sabatino ci hanno accolto a braccia aperte.
+Sabatino lavora in miniera e torna a casa sempre sporco di carbone.
+Io cucio e rammendo per certe signore che conosce il capo squadra di Sabatino.
+Cosi passo il tempo; quando avremo abbastanza soldi mi piacerebbe aprire una sartoria.
+Penso spesso a voi e ai giorni che abbiamo trascorso insieme.
+Ora vi lascio e vi abbraccio.
+Salutatemi Romano.
+La vostra Dunetta
+
+NARRAZIONE
+Cala il sipario.
+Applausi
+
+Tora porta soldi e biancheria
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+
+Il lancianese offre mercanzia per il corredo
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+====================================================================================
