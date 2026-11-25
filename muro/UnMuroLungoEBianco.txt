@@ -74,7 +74,7 @@ DOMENICA: Si, la conosco tua madre!
 Dalla radio si sente un’altra canzone. 
 Passano pochi secondi.
 Il volume della radio piano piano si abbassa. 
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare)
 DOMENICA: Quando ero ragazzina avevo due vestiti, uno con le toppe e uno senza. 
 Ero figlia di contadini e della miseria e delle ristrettezze che ci porto’ la guerra. 
@@ -171,7 +171,7 @@ Arriva Martina, accende la radio, si siede al suo tavolo, e si mette al lavoro.
 La radio si sente in sottofondo.
 Arrivano Bella e Dunetta, che si siedono ai tavoli e si mettono al lavoro.
 Il volume della radio piano piano si abbassa. 
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
 DOMENICA: La ragazza dai mille vestiti si chiamava maestra Flavia, e la madre, signora Lauretta, aveva bisogno di aiuto in casa.
 A quei tempi non c’erano elettrodomestici, solo le braccia e le mani per sbrigare le faccende. 
@@ -320,7 +320,7 @@ DOMENICA: Robba buona, ma leggera ...
 MARTINA: I tessuti per l'autunno e l'inverno li porta la settimana prossima.
 DOMENICA: Aspetta e spera.
 (Si sente rumore della macchina da cucire.
-Le luci dentro e fuori si affievoliscono gradualmente.
+Le luci dentro e fuori si affievoliscono gradualmente fino a spegnersi completamente.
 Il rumore della macchina da cucire tace.
 Si sente il rumore della notte.)
 GIORNO TERZO
@@ -328,7 +328,7 @@ GIORNO TERZO
 Si sente il rumore della macchina da cucire.
 La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
 DOMENICA: Entro nella camera di Flavia e spalanco gli occhi per lo stupore!
 Noi avevamo un’unica camera, ed io dormivo in un letto appoggiato sui mattoni, vicino al letto dove dormivano tutti gli altri, avvolta in una vecchia coperta.
@@ -459,14 +459,14 @@ La vecchia canta: intorno al tuo lettino
 C'è rose e gigli, tutto un bel giardino.
 Nei bel giardino il bimbo si addormenta
 La neve fiocca lenta, lenta, lenta.
-(Le luci dentro e fuori si affievoliscono gradualmente.
+(Le luci dentro e fuori si affievoliscono gradualmente fino a spegnersi completamente.
 Si sente il rumore della notte.)
 GIORNO QUARTO
 (Il rumore della notte tace.
 Si sente il rumore della macchina da cucire.
 La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
 DOMENICA: "La moda passa, lo stile resta", lo ha detto Coco Chanelle.
 Nell'armadio, accanto ai vestiti della maestra Flavia, c'erano dei rotoli di stoffa: almeno uno per ogni vestito.
@@ -594,19 +594,19 @@ Adesso vado, che devo finire i miei giri. I miei ossequi signora. Arrivederci, r
 DOMENICA: Vada con Dio in buon ora, e non si dimentichi che stiamo aspettando i tessuti per l'autunno e l'inverno.
 (Il Lancianese esce.
 Si sente il rumore della macchina da cucire.
-Le luci dentro e fuori si affievoliscono gradualmente.
+Le luci dentro e fuori si affievoliscono gradualmente fino a spegnersi completamente.
 Il rumore della macchina da cucire tace.
 Si sente il rumore della notte.)
 TELA
 ATTO II
-752-900-1050
+748-866-1007
 GIORNO PRIMO
 (Si sente il rumore della notte.
 Il rumore della notte tace.
 Si sente il rumore della macchina da cucire.
 La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
 DOMENICA: Da quel giorno la maestra Flavia ed io diventammo amiche e da lei imparai tante cose.
 Soprattutto osservando lei capii che non ero venuta al mondo per fare la serva ad un marito, fargli dei figli, ed allevarli.
@@ -748,7 +748,7 @@ GIORNO SECONDO
 Si sente il rumore della macchina da cucire.
 La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
-Le luci si concentrano su Domenica.
+Le luci nella stanza si concentrano su Domenica.
 Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
 DOMENICA: Iniziai a fare i vestiti per la bambola con i ritagli di stoffa degli abiti della maestra Flavia. 
 Guardavo la stoffa, guardavo il vestito della maestra fatto con quella stoffa, e lo rifacevo uguale uguale, solo piú piccolo, per la bambola.
@@ -828,7 +828,7 @@ Stai serena e prega: Dio vede e provede.
 Dunetta fa un cenno di saluto ed esce.
 Domenica chiude la porta e si rimette a lavorare alla macchina da cucire.
 Si sente il rumore della macchina da cucire.
-La porta si apre e rientra Martina.
+La porta si apre e rientra Martina che richiude la porta.
 Martina si siede al suo tavolo a ricamare.
 Domenica e Martina iniziano a parlare.)
 DOMENICA: Martina, lo sapevi che Dunetta e Sabatino si vogliono sposare?
@@ -851,21 +851,17 @@ E aveva ragione, ma alla fine si e' sposata pure lei, a trent'anni suonati, con 
 Meglio sposarsi quando si e' giovani, pero', maturare insieme, avere figli quando si hanno ancora energie da vendere per crescere i figli. Quanti anni avevi tu quando ti sei sposata?
 MARTINA: Ventitre. Leonardo e' stato il primo che si e' proposto. Avrei potuto aspettare e vedere se qualcun altro si faceva vivo, ma, anch'io, come Dunetta, avevo paura di perdere l'occasione. D'altro canto non mi posso lamentare: i figli sono arrivati, lui non beve piu' di tanto, non bestemmia, e quando mi fa male la testa, mi lascia in pace. E i figli crescono, senza darci troppe preoccupazioni, almeno per il momento.
 DOMENICA: Anch'io sono contenta di mio marito, ma la convivenza con mia suocera era per me un grosso problema, ed avevo troppa nostalgia del paese mio.
-Cosi, appena abbiamo potuto, siamo ritornati qui, e lui ha costruito questa casa con le proprie mani. Romano adesso lo sta aiutando a risistemare il tetto.
+Cosi, appena abbiamo potuto, siamo ritornati qui, e lui ha costruito questa casa con le proprie mani. Suo nipote Romano adesso lo sta aiutando a risistemare il tetto.
 MARTINA: Nel matrimonio la cosa piu' importante e' accettare le differenze.
 Costruire una vita in comune, dove ognuno dei due abbia la propria autonomia,
 Attraversare le fasi faticose facendosi forza a vicenda, avere fiducia l'una nell'altro, e amarsi nella buona e nella cattiva sorte, nella gioia e nel dolore, nella salute e nella malattia, come dice la formula magica.
 DOMENICA: Sante parole, Martina! Finche' morgte non ci separi. Alleluia. Amen. E cosi sia.
 (Si sente il rumore della macchina da cucire.
-Le luci dentro e fuori si affievoliscono gradualmente.
+Le luci dentro e fuori si affievoliscono gradualmente fino a spegnersi completamente.
 Il rumore della macchina da cucire tace.
 Si sente il rumore della notte.)
-====================================================================================
-SETTIMO GIORNO
-
-
-NARRAZIONE
-Il rumore della notte sfuma.
+GIORNO TERZO
+(Il rumore della notte sfuma.
 Si accendono le luci gradualmente dentro e fuori.
 Nella stanza illuminano la stessa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
@@ -874,40 +870,35 @@ Le due donne parlano sottovoce.
 Martina si alza.
 Le due donne vanno verso la porta.
 Domenica si ferma davanti al muro e nota qualcosa.
-Domenica inizia a leggere.
-
-DIALOGO, Domenica, CLARA, Dunetta
-Romano ti voglio bene ... Perche' non sei piu' ritornato? ... Ti coprirei di ...
+Domenica inizia a leggere.)
+DOMENICA: "Romano ti voglio bene ... Perche' non sei piu' ritornato? ... Ti coprirei di ..."
 Martina! Da te proprio non me lo aspettavo ...
-Romano, ma perche' non rispondi? Io non sono di legno, ma di carne e ossa ... Il mio cuore batte forte per te ...
+"Romano, ma perche' non rispondi? Io non sono di legno, ma di carne e ossa ... Il mio cuore batte forte per te ..."
 Bella! Chi ti ha insegnato a scrivere queste cose?
-Romano, Romano, tu che ce l'hai sempre in mano
+"Romano, Romano, tu che ce l'hai sempre in mano
 tu che non sai fare all'amore
 tu che sembri triste ... su andiamo
-ascolta Bella e cambierai certo d'umore
+ascolta Bella e cambierai certo d'umore"
 Dunetta! Vieni qui con il secchio e lo straccio e cancella tutto!
-Ma signora, si fa per scherzare, tra noi, per farci due risate.
-Si, non glielo mangiamo mica il suo Romano.
+DUNETTA: Ma signora, si fa per scherzare, tra noi, per farci due risate.
+BELLA: Si, non glielo mangiamo mica il suo Romano.
 Non e' poi cosi innocentino nemmeno lui. Guardi che cosa ha fatto con il carbone.
-Cancellate tutto subito! Domani chiamo mio marito e faccio imbiancare tutto il muro.
+DUNETTA: Cancellate tutto subito! Domani chiamo mio marito e faccio imbiancare tutto il muro.
 Ritornera' ad essere un muro lungo e bianco, un muro normale, senza la spazzatura delle vostre menti sconce.
-E cosa diranno le maestre? Anche loro vengono e scrivono sul muro.
+DUNETTA: E cosa diranno le maestre? Anche loro vengono e scrivono sul muro.
 Tanta gente viene a leggere e scrivere: rimarranno tutti tristi e delusi.
 Che male c'e' se per distrarci scriviamo qualcosa? Il lavoro glielo facciamo o non glielo facciamo lo stesso.
-Per ora cancellate queste sconcezze che avete scritto, queste labbra, e questi disegni, quelli rossi e quelli neri, poi si vedrà.
-
-NARRAZIONE
-Domenica ancora indignata si risiede alla macchina da cucire.
+DOMENICA: Per ora cancellate queste sconcezze che avete scritto, queste labbra, e questi disegni, quelli rossi e quelli neri, poi si vedrà.
+(Domenica ancora indignata si risiede alla macchina da cucire.
 Si sente il rumore della macchina da cucire.
 Le sarte prendono un secchio e degli stracci e si affaccendano sul muro.
 Martina esce.
 Bella ed Dunetta vanno a sedersi e riprendono i loro ricami,
 Domenica pensa ad altro e inizia a calmarsi.
 La macchina da cucire tace.
-Luci su Domenica.
-
-Domenica
-La sarta nobile decaduta da cui ho imparato il mestiere si chiamava Agata.
+Le luci nella stanza si concentrano su Domenica.
+Domenica si volta verso la platea e inizia a parlare.)
+DOMENICA: La sarta nobile decaduta da cui ho imparato il mestiere si chiamava Agata.
 Certo che con lei non ci prendevamo tutte queste confidenze e non ci sognavamo nemmeno di imbrattare i muri.
 Pero' ti trattava con rispetto; ti faceva sgobbare, ma il giusto te lo pagava.
 Era una brava mestierante, che rimetteva a nuovo certi abiti lisi e consunti arrivati da noi in fin di vita.
@@ -921,125 +912,103 @@ In citta'? In citta' le ragazze come te si perdono, disse mia madre.
 No, io non mi perderò e imparerò a fare abiti per i cittadini, tagliando e cucendo seguendo i modelli, ribattei io.
 Va bene, adesso scrivo a tua zia a Pescara, e vediamo se lei conosce qualcuno, rispose lei.
 Quando Agata seppe che andavo a Pescara, non la prese bene.
-Pensoò che fossi un ingrata e mi tolse la parola.
+Pensò che fossi un ingrata e mi tolse la parola.
 Quando poi sono ritornata e ho aperto questo posto, apriti cielo!
 Mi sono allevata una serpe in seno, sparlava con le amiche.
 Adesso se n'e' fatta una ragione, anche se ancora non mi saluta ...
-
-NARRAZIONE
-Le luci si allargano.
-La radio suona una canzone e poi tace.
+(Le luci si allargano e illuminano nuovamente tutta la stanza.
+Dalla radio per qualche secondo suona una canzone.
+Arriva il Lancianese sulla soglia della porta. 
+Sotto il braccio destro tiene un rotooi di stoffa bianca.
+Nella mano sinistra porta una ventiquattrore)
+IL LANCIANESE: (bussando sulla porta aperta) Permesso?
+DOMENICA: (alzando la testa e guardando nella direzione della porta) Avanti!
+IL LANCIANESE: (entra, avanza, e si ferma nel mezzo della stanza) Buongiorno signora! I miei ossequi. Come sta? 
+DOMENICA: Male! Le ragazze mi hanno fatto arrabbiare.
+IL LANCIANESE: Cos'e successo? 
+DOMENICA: Lasciamo perdere: meglio non parlarne. Cos'e' quella stoffa?
+IL LANCIANESE: Non si deve adirare signora che le sale la pressione.
+Ecco, le ho portato ....
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+>>>>>>>>>>>>>>>>>>>>>>>>Il lancianese porta rotolo e campione per abito da sposa<<<<<<<<<<
+(Il Lancianese esce.
+Si sente il rumore della macchina da cucire.
 La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
-Passa un contadino, beve un bicchiere d’acqua e va via.
+Si sente il rumore della machina da cucire.
+Dalla strada arriva la maestra Tora, vestita con un altro tailleur fuori moda. 
+In testa ha un altro cappellino, anch'esso fuori moda.) 
+TORA: Buongiorno, Mincuccia.
+DOMENICA: Buongiorno, Toruccia. Sai cos'hanno combinato queste disgraziate? 
+TORA: No, cos'hanno combinato?
+DOMENICA: Si sono messe a stuzzicare mio nipote Romano lasciandogli sul muro messaggi sconci.
+TORA: E che avranno scritto mai?
+(Tora si avvicina al MURO.)
+DOMENICA: Gli ho fatto concellare tutto, ma che vergogna! Chissa' cos'avranno pensato i clienti.
+Da domani muro bianco a calce e guai a chi osa sporcarlo: questa e' una sartoria rispettabile e rispettata, non un cesso pubblico.
+TORA (avvicinandosi alla macchina da cucire): Ma no, non fare come le maestre severe e ricorda di quello che mi hai detto l'altro giorno: vivi e lascia vivere. 
+DOMENICA: E va bene, le lascero' continuare a imbrattare il muro allora. La tua giacca e' pronta. Eccola li, sulla cassapanca.
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: Arrivederci Toruccia. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>Tora viene a riprendersi la giacca<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+(La maestra Tora fa un cenno d'assenso, esce, e va verso il paese.
 Domenica fa cenno ad Dunetta e Bella che la giornata è finita e che possono andare.
 Le sarte posano i ricami, si alzano, ed escono dalla porta d’ingresso.
 Dunetta e Bella vanno verso il paese,
 Domenica aspetta davanti la porta.
-Dal paese arriva una donna austera, ed entra.
-Domenica e la donna si fermano al centro della stanza.
-
-DIALOGO, Domenica, ROSALINDA
-Rosalinda, ti ho mandato a chiamare perche’ debbo dirti qualcosa.
-Si tratta di Dunetta?
-Si ...
-Lo sapevo che venire a lavorare qui e’ stato uno sbaglio e non e’ adatta a tagliare e cucire
-No, non e’ questo. Anzi è molto portata. E’ invece che ha deciso di sposarsi e mi ha chiesto di parlare con te, perche’ ha paura che tu non acconsenti
-E’ con chi si vorrebbe sposare? Non acconsento no! Lo sapevo che qui si sarebbe riempita la testa di fandonie. A casa deve tornare. Tra poco Marta si sposa ed io ho bisogno di aiuto. Dunetta e’ giovane e a sposarsi c’e’ tempo per lei
-Ma all’amor non si comanda ...
-Si comanda sì!
-Ma proprio tu che te la intendi con il compare fai storie per tua figlia che vuole bene a Sabatino.
-Anche tu sarai innamorata del compare e dovresti capire tua tua figlia.
+Dal paese arriva una donna austera, fa un cenno di saluto, ed entra.
+Domenica e la donna si fermano al centro della stanza.)
+DOMENICA: Rosalinda, ti ho mandato a chiamare perche’ debbo dirti qualcosa.
+ROSALINDA: Si tratta di Dunetta?
+DOMENICA: Si ...
+ROSALINDA: Lo sapevo che venire a lavorare qui e’ stato uno sbaglio e non e’ adatta a tagliare e cucire
+DOMENICA: No, non e’ questo. Anzi è molto portata. E’ invece che ha deciso di sposarsi e mi ha chiesto di parlare con te, perche’ ha paura che tu non acconsenti
+ROSALINDA: E’ con chi si vorrebbe sposare? Non acconsento no! Lo sapevo che qui si sarebbe riempita la testa di fandonie. A casa deve tornare. Tra poco Marta si sposa ed io ho bisogno di aiuto. Dunetta e’ giovane e a sposarsi c’e’ tempo per lei
+DOMENICA: Ma all’amor non si comanda ...
+ROSALINDA: Si comanda sì!
+DOMENICA: Ma proprio tu che te la intendi con il compare fai storie per tua figlia che vuole bene a Sabatino.
+ROSALINDA: Anche tu sarai innamorata del compare e dovresti capire tua tua figlia.
 Lei almeno vuole sposarsi e mettersi in regola.
 Innamorata del compare? Ma ti e' andato di volta il cervello? Tu tuo marito ce l'hai ancora, io ho bisogno di un uomo per casa per il lavori pesanti, E i campi? Chi ci andrebbe a seguire i campi se non ci fosse il compare? Innamorata! Questa e' bella ...
-
-NARRAZIONE
-Rosalinda esce in fretta e furia.
+(Rosalinda esce in fretta e furia.
 Domenica chiude la porta e delusa si risiede alla macchina da cucire.
 Si sente il rumore della macchina da cucire.
-La porta si apre e rientra Martina.
+La porta si apre e rientra Martina che richiude la porta.
 Martina si siede al suo tavolo a ricamare.
-Domenica e Martina iniziano a parlare.
-
-DIALOGO, Domenica, Martina
-Eh, questa sartoria non va piu’ cosi bene come una volta.
+Domenica e Martina iniziano a parlare.)
+DOMENICA: Eh, questa sartoria non va piu’ cosi bene come una volta.
 Certo non va nemmeno male, ma ha senz’altro gli anni contati.
-La gente non vuole più spendere per abiti su misura e le future spose se ne vanno in città a cercare le ultime mode.
-Qualche soldo però ancora lo facciamo e mio figlio e mia figlia sono sistemati e non hanno bisogno di niente; Dunetta e Marta mi fanno pena e questi soldi che la sartoria mi rende sono ben spesi per aiutarle.
+MARTINA: La gente non vuole più spendere per abiti su misura e le future spose se ne vanno in città a cercare le ultime mode.
+DOMENICA: Qualche soldo però ancora lo facciamo e mio figlio e mia figlia sono sistemati e non hanno bisogno di niente; Dunetta e Marta mi fanno pena e questi soldi che la sartoria mi rende sono ben spesi per aiutarle.
 Contatterò certe conoscenze che ho a Bologna per organizzare gli studi di Marta.
 Ad Dunetta darò in prestito il denaro per una piccola dote e le comprerò i tessuti necessari per il corredo. Dunetta e Bella verso la fine della giornata potranno lavorare al corredo di buona lena e presto ce ne sara’ abbastanza per potersi sposare.
-Le darò qualcosa della figlia.
-Alcune clienti porteranno qualcosa.
-Le maestre aiuteranno a comprare le cose che mancano.
-Andrò con la maestra Tora a parlare con Rosalinda dopo che Dunetta scappa per vedere se riusciamo a calmarla.
-Prima o poi anche lei si dara' pace.
-Vedremo un po' come andra' a finire.
-Che Dio ci aiuti e ci abbia in gloria ...
-
-NARRAZIONE
-Le luci poco a poco si spengono.
-Si sente il rumore della notte.
-
-Tora viene a riprendersi la giacca
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-Il lancianese porta rotolo e campione per abito da sposa
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-====================================================================================
-
-
-OTTAVO GIORNO
-=============
-
-NARRAZIONE
-Il rumore della notte sfuma.
-Si accendono le luci gradualmente dentro e fuori.
-Nella stanza illuminano la stessa scena del giorno prima.
+MARTINA: Se le e' rimasto qualcosa di sua figlia, puo' darlo a Dunetta ... Anche alcune clienti porteranno qualcosa e le maestre aiuteranno a comprare le cose che mancano.
+DOMENICA: Andrò con la maestra Tora a parlare con Rosalinda dopo che Dunetta scappa per vedere se riusciamo a calmarla: prima o poi anche lei si dara' pace.
+Vedremo un po' come andra' a finire: che Dio ci aiuti e ci abbia in gloria ...
+(Si sente il rumore della macchina da cucire.
+Le luci dentro e fuori si affievoliscono gradualmente fino a spegnersi completamente.
+Il rumore della macchina da cucire tace.
+Si sente il rumore della notte.)
+GIORNO QUARTO
+(Il rumore della notte tace.
+Si sente il rumore della macchina da cucire.
+La luce fuori e dentro gradualmente aumenta, illuminando la stassa scena del giorno prima.
 Domenica è seduta alla macchina da cucire, le sarte sono sedute sui tavoli a ricamare.
-Luci su Domenica.
-
-Domenica
-Non mi pento di nulla, eccetto di quello che non ho fatto: lo ha detto Coco Chanelle.
+Le luci nella stanza si concentrano su Domenica.
+Domenica, ancora seduta dietro la macchina da cucire, si volta verso la platea e inizia a parlare.)
+DOMENICA: Non mi pento di nulla, eccetto di quello che non ho fatto: lo ha detto Coco Chanelle.
 Meglio avere rimorsi che rimpianti, ho sentito dire spesso ai nostri saggi qui in paese.
 Come mai faranno a essere saggi? Il loro mondo si ferma a questo orizzonte.
 Non hanno mai visto niente al di la' della cresta di quelle montagne.
@@ -1051,78 +1020,98 @@ La maestra Tora mi ha spiegato che un abito inizia con un'idea, nella testa dell
 Il modello dell'abito e' il pupazzo, piu' reale dell'ombra sul muro.
 L'abito di stoffa e' ancora piu' reale, ma solo quando viene indossato prende finalmente vita.
 Io faccio abiti, e voi li indossate e li fate vivere.
-
-NARRAZIONE
-Luci si allargano.
-Martina e Bella parlano tra loro a voce bassa.
-
-DIALOGO, Martina, Bella
-Sei stata al matrimonio sabato scorso?
-Si, ma chi l'ha fatto l'abito della sposa?
-Non lo so, ma visto che non l'abbiamoMartina fatto noi ...
-L'hanno fatto a Lanciano? O a Pescara?
-Non credo ... Buffo com'era, la sarta e' come se lo avesse firmato.
-Agata! Mi era anche sembrato di sentire degli asini ragliare la settimana scorsa.
-Invece erano le sue lavoranti che facevano la serenata alla sposina ...
-Eppure anche Agata lavora e continuano ad andare da lei.
-Persone invidiose o che vogliono spendere poco.
-Si, ma vivi e lascia vivere: i cavalli nitriscono, le pecore belano, gli asini ragliano
-
-NARRAZIONE
+(Le luci si allargano e illuminano  nuovamente tutta la stanza.
+Martina e Bella parlano tra loro a voce bassa.)
+MARTINA: Sei stata al matrimonio sabato scorso?
+BELLA: Si, ma chi l'ha fatto l'abito della sposa?
+MARTINA: Non lo so, ma visto che non l'abbiamoMartina fatto noi ...
+BELLA: L'hanno fatto a Lanciano? O a Pescara?
+MARTINA: Non credo ... Buffo com'era, la sarta e' come se lo avesse firmato.
+BELLA: Agata! Mi era anche sembrato di sentire degli asini ragliare la settimana scorsa.
+MARTINA: Invece erano le sue lavoranti che facevano la serenata alla sposina ...
+BELLA: Eppure anche Agata lavora e continuano ad andare da lei.
+MARTINA: Persone invidiose o che vogliono spendere poco.
+BELLA: Si, ma vivi e lascia vivere: i cavalli nitriscono, le pecore belano, gli asini ragliano
+(Arriva il Lancianese sulla soglia della porta con in mano una valigia da rappresentante.)
+IL LANCIANESE: (bussando sulla porta aperta) Permesso?
+DOMENICA: (alzando la testa e guardando nella direzione della porta) Prego!
+IL LANCIANESE: (entra, avanza, e si ferma nel mezzo della stanza) Buongiorno signora! I miei ossequi. Come sta? 
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+IL LANCIANESE: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+>>>>>>>>>>>>>>>>>>>>>>>>Il lancianese offre mercanzia per il corredo<<<<<<<<<<<<<<<<<<<<<<
+IL LANCIANESE: No, signora: anche a tremila sono quasi regalate ...
+Adesso vado, che devo finire i miei giri. I miei ossequi signora. Arrivederci, ragazze.
+(Il Lancianese prende la valigia e si avvia verso la porta)
+DOMENICA: Vada con Dio in buon ora, e non si dimentichi che stiamo aspettando i tessuti per l'autunno e l'inverno.
+(Il Lancianese esce.
+Dalla radio per qualche secondo suona una canzone.
+Dalla strada arriva la maestra Tora, vestita con un altro tailleur fuori moda.
+In testa ha un altro cappellino, anch'esso fuori moda.
+Con entrambe le mani porta delle buste di butique di lusso con scritte eleganti.) 
+TORA: Buongiorno, Mincuccia.
+DOMENICA: Buongiorno, Toruccia. Cosa ci hai portato di bello? 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Tora porta soldi e biancheria<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+TORA: 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+DOMENICA: Arrivederci Toruccia. 
+(La maestra Tora fa un cenno d'assenso, esce, e va verso il paese.
 La luce fuori si affievolisce a rappresentare l’arrivo del crepuscolo.
-Passa un contadino, beve un bicchiere d’acqua e lascia tre pomodori.
 Domenica fa cenno alle sarte che la giornata è finita e che possono andare.
 Le sarte posano i ricami e si alzano.
 Martina e Bella si avvicinano ad Domenica e le lasciano una busta.
 Martina e Bella escono dalla porta d’ingresso e vanno verso il paese,
-Domenica e Dunetta rimangono in mezzo alla stanza.
-
-DIALOGO, Dunetta, Domenica
-Il corredo e’ finito; tra poco Sabatino mi viene a prendere.
+Domenica e Dunetta rimangono in mezzo alla stanza.)
+DUNETTA: Grazie a lei, signora, adesso ho il corredo ... Tra poco Sabatino mi viene a prendere.
 Poco lontano da qui c'e' un suo amico con la macchina che ci aspetta.
 Ci porta in citta'; questa notte dormiremo in albergo; domani ci sposeremo.
 Sabatino ha un parente lontano e staremo da lui; poi, se mia madre si calma, ritorniamo.
 Altrimenti partiremo direttamenti per il Canadà ... Meglio salutarci ora.
-Mi mancherai, figlia mia! Fatti onore in Canadà. 
+DOMENICA: Mi mancherai, figlia mia! Fatti onore in Canadà. 
 Quando arrivi, mandaci una cartolina.
 E mi raccomando, scrivici il piu' spesso che puoi.
-Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
-
-NARRAZIONE
-Arriva Marta con una valigia.
+DUNETTA: Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
+(Arriva Marta con una valigia.
 Marta posa la valigia e abbraccia Dunetta e Domenica.
-Anche Dunetta e Domenica si abbracciano.
-
-DIALOGO, MARTA, Domenica
-Grazie di tutto, signora! Aspetto qui un passaggio per andare a prendere il treno
-Mi mancherai, figlia mia! Fatti onore a Bologna! 
+Anche Dunetta e Domenica si abbracciano.)
+MARTA: Grazie di tutto, signora! Aspetto qui un passaggio per andare a prendere il treno
+DOMENICA: Mi mancherai, figlia mia! Fatti onore a Bologna! 
 Quando arrivi, mandaci una cartolina.
 E mi raccomando, scrivici il piu' spesso che puoi.
-Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
-
-NARRAZIONE
-Si sentono dei tuoni lontani.
+MARTA: Si, vi scrivero' spesso, e scrivetemi anche voi, e ditemi cosa scrivono sul muro.
+(Si sentono dei tuoni lontani.
 Si vedono dei lampi attraverso la porta e la finestra.
-Arriva un contadino trafelato ed entra.
-
-DIALOGO, CONTADINO, Dunetta
-Avete sentito i tuoni? Mamma mia, che acquazzone! L'acqua portò via tutto lo scavo dell’invaso e una frana ha travolto gli operai: tutti sepolti ... 
-Proprio tutti? Non si e' salvato nessuno?
-Si, tutti ... tutti ... Si scava, ma con poche speranze
-Sabatino! Sabatino! (gridando)
-
-NARRAZIONE
-Dunetta corre fuori e si ferma davanti alla finestra.
-Dunetta rientra e si accascia tra le braccia di Marta.
-
-DIALOGO, MARTA, Dunetta
-Io non parto piu’, Dunetta, e rimango qui con te
-No, almeno tu non rinunciare ai tuoi sMartinaogni (singhiozzando)
-Non posso lasciarti in questo stato
-No, almeno tu vai via da questo posto maledetto
-
-NARRAZIONE
-Si sentono dei passi pesanti e incerti.
+Arriva un contadino trafelato ed entra.)
+CONTADINO: Avete sentito i tuoni? Mamma mia, che acquazzone! L'acqua portò via tutto lo scavo dell’invaso e una frana ha travolto gli operai: tutti sepolti ... 
+DOMENICA: Proprio tutti? Non si e' salvato nessuno?
+CONTADINO: Si, tutti ... tutti ... Si scava, ma con poche speranze ...
+DUNETTA (gridando): Sabatino! Sabatino! 
+(Dunetta corre fuori e si ferma davanti alla finestra.
+Dunetta rientra e si accascia tra le braccia di Marta.)
+MARTA: Io non parto piu’, Dunetta, e rimango qui con te.
+DUNETTA (singhiozzando): No, almeno tu non rinunciare ai tuoi sogni.
+MARTA: Non posso lasciarti in questo stato.
+DUNETTA: No, almeno tu vai via da questo posto maledetto.
+(Si sentono dei passi pesanti e incerti.
 Un'ombra appare prima davanti alla finestra poi davanti alla porta.
 Sabatino entra nella sartoria pieno di fango e con la faccia stravolta.
 Dunetta lo vede, gli corre incontro e piangendo lo abbraccia,
@@ -1132,17 +1121,13 @@ Tace il rumore della notte.
 Si riaccendono le luci dentro.
 Marta e' andata via.
 Sabatino adesso e' pulito e tiene per mano Dunetta.
-Domenica da a Sabatino la busta che le hanno dato Martina e Bella.
-
-DIALOGO, Domenica, Sabatino
-Sabatino, ecco la colletta che hanno fatto le sarte, le maestre, e le altre clienti ...
-Grazie signora, grazie di cuore, grazie a tutte loro, che Iddio le ricompensi.
-Sabatino, ti raccomando Dunetta: e' come se fosse mia figlia ... Ha una piccola dote ma un cuore grande cosi: vogliatevi bene e siate felici.
-Grazie signora, grazie di tutto, se non fosse stato per voi ...
-Aspettate, vi accompagno ...
-
-NARRAZIONE
-Sabatino, Dunetta e Domenica escono.
+Domenica da a Sabatino la busta che le hanno dato Martina e Bella.)
+DOMENICA: Sabatino, ecco la colletta che hanno fatto le sarte, le maestre, e le altre clienti ...
+SABATINO: Grazie signora, grazie di cuore, grazie a tutte loro, che Iddio le ricompensi.
+DOMENICA: Sabatino, ti raccomando Dunetta: e' come se fosse mia figlia ... Ha una piccola dote ma un cuore grande cosi: vogliatevi bene e siate felici.
+SABATINO: Grazie signora, grazie di tutto, se non fosse stato per voi ...
+DOMENICA: Aspettate, vi accompagno ...
+(Sabatino, Dunetta e Domenica escono.
 Si spengono le luci dentro.
 Si sente il rumore della notte.
 Tace il rumore della notte.
@@ -1151,10 +1136,8 @@ Tutto intorno e' buio: si vede solo il tavolo.
 Arriva Dunetta con una sedia.
 Si siede al tavolo e scrive.
 Fuori fischia il vento e infuria la bufera.
-Dunetta posa la penna, prende il foglio in mano, e legge.
-
-Dunetta
-Carissima signora Domenica, carissime stimate ex colleghe Martina e Bella,
+Dunetta posa la penna, prende il foglio in mano, e legge.)
+DUNETTA: Carissima signora Domenica, carissime stimate ex colleghe Martina e Bella,
 Se vi dicessi che il Canada' e' un paradiso, vi direi una grossa bugia.
 Anche la traversata dell'oceano e' stata lunga e faticosa, senza poi aver niente da fare.
 Siamo arrivati ad Halifax stremati e ci hanno tenuti li parecchi giorni per sbrigare certe pratiche, prima che ci lasciassero andare.
@@ -1169,59 +1152,4 @@ Penso spesso a voi e ai giorni che abbiamo trascorso insieme.
 Ora vi lascio e vi abbraccio.
 Salutatemi Romano.
 La vostra Dunetta
-
-NARRAZIONE
-Cala il sipario.
-Applausi
-
-Tora porta soldi e biancheria
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-
-Il lancianese offre mercanzia per il corredo
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-====================================================================================
+TELA
